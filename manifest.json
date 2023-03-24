@@ -1,0 +1,21 @@
+{
+  "name": "Auditoria informatica ",
+  "short_name": "Auditoria",
+  "description": "Bienvenid@s a LCS",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "id": "./index.html",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./src/img/logo_fcac1.png",
+      "sizes": "1024x823",
+      "type": "image/png"
+    }
+    
+  ]
+}
